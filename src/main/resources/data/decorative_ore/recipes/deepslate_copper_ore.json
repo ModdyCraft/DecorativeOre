@@ -1,0 +1,42 @@
+{
+  "group": "deepslate_ore_craft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:raw_copper"
+    },
+    "1": {
+      "item": "minecraft:raw_copper"
+    },
+    "2": {
+      "item": "minecraft:raw_copper"
+    },
+    "3": {
+      "item": "minecraft:raw_copper"
+    },
+    "4": {
+      "item": "minecraft:deepslate"
+    },
+    "5": {
+      "item": "minecraft:raw_copper"
+    },
+    "6": {
+      "item": "minecraft:raw_copper"
+    },
+    "7": {
+      "item": "minecraft:raw_copper"
+    },
+    "8": {
+      "item": "minecraft:raw_copper"
+    }
+  },
+  "result": {
+    "item": "minecraft:deepslate_copper_ore",
+    "count": 1
+  }
+}

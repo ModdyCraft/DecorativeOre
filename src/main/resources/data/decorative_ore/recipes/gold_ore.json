@@ -1,0 +1,42 @@
+{
+  "group": "ore_craft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:raw_gold"
+    },
+    "1": {
+      "item": "minecraft:raw_gold"
+    },
+    "2": {
+      "item": "minecraft:raw_gold"
+    },
+    "3": {
+      "item": "minecraft:raw_gold"
+    },
+    "4": {
+      "item": "minecraft:stone"
+    },
+    "5": {
+      "item": "minecraft:raw_gold"
+    },
+    "6": {
+      "item": "minecraft:raw_gold"
+    },
+    "7": {
+      "item": "minecraft:raw_gold"
+    },
+    "8": {
+      "item": "minecraft:raw_gold"
+    }
+  },
+  "result": {
+    "item": "minecraft:gold_ore",
+    "count": 1
+  }
+}

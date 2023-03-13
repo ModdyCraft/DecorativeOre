@@ -1,0 +1,272 @@
+{
+  "mod_elements": [
+    {
+      "name": "DiamondOre",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/diamond_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "CoalOre",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coal_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/coal_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperOre",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/copper_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldOre",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/emerald_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldOre",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/gold_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "IronOre",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/iron_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "LapisOre",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lapis_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/lapis_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "NetherGoldOre",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_gold_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/nether_gold_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "NetherQuartzOre",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_quartz_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/nether_quartz_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DeepslateDiamondOre",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_diamond_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/deepslate_diamond_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DeepslateCoalOre",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_coal_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/deepslate_coal_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DeepslateCopperOre",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_copper_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/deepslate_copper_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DeepslateEmeraldOre",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_emerald_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/deepslate_emerald_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DeepslateGoldOre",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_gold_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/deepslate_gold_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DeepslateIronOre",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_iron_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/deepslate_iron_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DeepslateLapisOre",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_lapis_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/deepslate_lapis_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DecorativeOre",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "decorative_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/advancements/decorative_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DecorateWithRealOresProcedure",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "decorate_with_real_ores_procedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/moddy/decorativeore/procedures/DecorateWithRealOresProcedureProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.decorative_ore.title": "Decorate with real ores",
+      "advancements.decorative_ore.descr": "Decorate with real oresCreate mineable and real ore decorations for your decorative mine"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "decorative_ore",
+    "modName": "Decorative Ore",
+    "version": "1.0.0",
+    "author": "ModdyCraft, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.moddy.decorativeore",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

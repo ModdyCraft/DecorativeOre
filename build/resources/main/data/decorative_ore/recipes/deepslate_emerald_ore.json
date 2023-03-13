@@ -1,0 +1,42 @@
+{
+  "group": "deepslate_ore_craft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "minecraft:emerald"
+    },
+    "3": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "minecraft:deepslate"
+    },
+    "5": {
+      "item": "minecraft:emerald"
+    },
+    "6": {
+      "item": "minecraft:emerald"
+    },
+    "7": {
+      "item": "minecraft:emerald"
+    },
+    "8": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "minecraft:deepslate_emerald_ore",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "ore_craft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:raw_iron"
+    },
+    "1": {
+      "item": "minecraft:raw_iron"
+    },
+    "2": {
+      "item": "minecraft:raw_iron"
+    },
+    "3": {
+      "item": "minecraft:raw_iron"
+    },
+    "4": {
+      "item": "minecraft:stone"
+    },
+    "5": {
+      "item": "minecraft:raw_iron"
+    },
+    "6": {
+      "item": "minecraft:raw_iron"
+    },
+    "7": {
+      "item": "minecraft:raw_iron"
+    },
+    "8": {
+      "item": "minecraft:raw_iron"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_ore",
+    "count": 1
+  }
+}

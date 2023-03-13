@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "deepslate_ore_craft",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.RAW_IRON"
+      },
+      {
+        "value": "Items.RAW_IRON"
+      },
+      {
+        "value": "Items.RAW_IRON"
+      },
+      {
+        "value": "Items.RAW_IRON"
+      },
+      {
+        "value": "Blocks.DEEPSLATE"
+      },
+      {
+        "value": "Items.RAW_IRON"
+      },
+      {
+        "value": "Items.RAW_IRON"
+      },
+      {
+        "value": "Items.RAW_IRON"
+      },
+      {
+        "value": "Items.RAW_IRON"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.DEEPSLATE_IRON_ORE"
+    },
+    "name": "deepslate_iron_ore",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="decorative_ore"
+version="1.0.0"
+displayName="Decorative Ore"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="ModdyCraft, MCreator"
+
+[[dependencies.decorative_ore]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

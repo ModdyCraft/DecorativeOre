@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "ore_craft",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.EMERALD"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.EMERALD_ORE"
+    },
+    "name": "emerald_ore",
+    "namespace": "mod"
+  }
+}
