@@ -1,13 +1,13 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:nether_gold_ore"
+      "item": "minecraft:deepslate_diamond_ore"
     },
     "title": {
-      "translate": "advancements.decorative_nether_ore.title"
+      "translate": "advancements.ddro.title"
     },
     "description": {
-      "translate": "advancements.decorative_nether_ore.descr"
+      "translate": "advancements.ddro.descr"
     },
     "frame": "task",
     "show_toast": true,
@@ -15,7 +15,7 @@
     "hidden": true
   },
   "criteria": {
-    "decorative_nether_ore": {
+    "ddro": {
       "trigger": "minecraft:impossible"
     }
   },

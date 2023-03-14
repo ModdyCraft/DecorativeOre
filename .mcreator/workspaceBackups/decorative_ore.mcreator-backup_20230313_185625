@@ -211,6 +211,7 @@
     {
       "name": "DecorativeOre",
       "type": "achievement",
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "decorative_ore",
@@ -223,6 +224,7 @@
     {
       "name": "DecorateWithRealOresProcedure",
       "type": "procedure",
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "decorate_with_real_ores_procedure",
@@ -237,13 +239,88 @@
           }
         ]
       }
+    },
+    {
+      "name": "RedstoneOre",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/redstone_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DeepslateRedstoneOre",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_redstone_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/recipes/deepslate_redstone_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DecorativeNetherOre",
+      "type": "achievement",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "decorative_nether_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/advancements/decorative_nether_ore.json"
+        ]
+      }
+    },
+    {
+      "name": "DNROProcedure",
+      "type": "procedure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dnro_procedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/moddy/decorativeore/procedures/DNROProcedureProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DDRO",
+      "type": "achievement",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ddro",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/decorative_ore/advancements/ddro.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "advancements.decorative_nether_ore.title": "Decorate with real nether ores",
+      "advancements.ddro.title": "Decorate with real deepslate ores",
       "advancements.decorative_ore.title": "Decorate with real ores",
+      "advancements.ddro.descr": "Decorate with real oresCreate mineable and real ore decorations for your decorative mine",
+      "advancements.decorative_nether_ore.descr": "Decorate with real oresCreate mineable and real ore decorations for your decorative mine",
       "advancements.decorative_ore.descr": "Decorate with real oresCreate mineable and real ore decorations for your decorative mine"
     }
   },
